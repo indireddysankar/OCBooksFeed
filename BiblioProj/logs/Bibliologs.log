@@ -1,0 +1,19 @@
+2014-12-14 19:53:44,408 DEBUG [main] (LoadProperties.java:load():22) - Properties file to be loaded : config.properties
+2014-12-14 19:53:44,424 DEBUG [main] (LoadProperties.java:load():24) - Starting loading properties file
+2014-12-14 19:53:44,424 DEBUG [main] (LoadProperties.java:Prop():38) - Entered LoadProperties.class with Property Name : IMAGES_NAMES_FILE
+2014-12-14 19:53:44,424 DEBUG [main] (LoadProperties.java:Prop():39) - Property Value : D:/Personal/GoogleDrive/Cochin Books-Upload/Folder3/Images_Names_folder3_file.csv
+ Returning from LoadProperties.class
+2014-12-14 19:53:44,424 DEBUG [main] (RenamingImageFiles.java:renameImageFiles():23) - D:/Personal/GoogleDrive/Cochin Books-Upload/Folder3/Images_Names_folder3_file.csv
+2014-12-14 19:53:44,424 DEBUG [main] (LoadProperties.java:Prop():38) - Entered LoadProperties.class with Property Name : IMAGES_NAMES_FILE
+2014-12-14 19:53:44,424 DEBUG [main] (LoadProperties.java:Prop():39) - Property Value : D:/Personal/GoogleDrive/Cochin Books-Upload/Folder3/Images_Names_folder3_file.csv
+ Returning from LoadProperties.class
+2014-12-14 19:53:44,424 DEBUG [main] (LoadProperties.java:Prop():38) - Entered LoadProperties.class with Property Name : IMAGES_NAMES_FILE
+2014-12-14 19:53:44,424 DEBUG [main] (LoadProperties.java:Prop():39) - Property Value : D:/Personal/GoogleDrive/Cochin Books-Upload/Folder3/Images_Names_folder3_file.csv
+ Returning from LoadProperties.class
+2014-12-14 19:53:44,424 DEBUG [main] (LoadProperties.java:Prop():38) - Entered LoadProperties.class with Property Name : IMAGES_FOLDER
+2014-12-14 19:53:44,440 DEBUG [main] (LoadProperties.java:Prop():39) - Property Value : D:/Personal/GoogleDrive/Cochin Books-Upload/Folder3/Folder3 Images
+ Returning from LoadProperties.class
+2014-12-14 19:53:44,440 DEBUG [main] (LoadProperties.java:Prop():38) - Entered LoadProperties.class with Property Name : IMAGES_FOLDER
+2014-12-14 19:53:44,440 DEBUG [main] (LoadProperties.java:Prop():39) - Property Value : D:/Personal/GoogleDrive/Cochin Books-Upload/Folder3/Folder3 Images
+ Returning from LoadProperties.class
+2014-12-14 19:53:44,440 DEBUG [main] (RenamingImageFiles.java:renameImageFiles():37) - D:/Personal/GoogleDrive/Cochin Books-Upload/Folder3/Folder3 Images
